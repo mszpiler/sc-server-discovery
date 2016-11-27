@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: sc-server-discovery
+  cloud:
+    config:
+      uri: http://sc-server-config:8100
